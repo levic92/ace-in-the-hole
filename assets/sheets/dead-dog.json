@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "dead-dog-flipped.png",
+	"frame": {"x":1,"y":1,"w":274,"h":241},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":241},
+	"sourceSize": {"w":274,"h":241},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dead-dog.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:906cba6d3839ca823a515787fe5c8ca7:1332c10749cb9bd1044fd98bf16a1d67:4a25644a7039a8cd586dab0a76689c16$"
+}
+}

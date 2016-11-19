@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "Jump (1).png",
+	"frame": {"x":1,"y":1,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (2).png",
+	"frame": {"x":550,"y":1,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (3).png",
+	"frame": {"x":1099,"y":1,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (4).png",
+	"frame": {"x":1,"y":484,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (5).png",
+	"frame": {"x":550,"y":484,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (6).png",
+	"frame": {"x":1099,"y":484,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (7).png",
+	"frame": {"x":1,"y":967,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Jump (8).png",
+	"frame": {"x":550,"y":967,"w":547,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":547,"h":481},
+	"sourceSize": {"w":547,"h":481},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dog-jump-sheet-2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ede54395352dc1949ac8e06ba825cefa:e60af2271815fc98e08cfaa2dd83a90c:6e063e5bf941ff1d9e3b920c49a68b20$"
+}
+}

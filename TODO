@@ -1,0 +1,35 @@
+TODO:
+
+Need:
+ - Pretty Score
+ - Game over screen
+
+
+Really nice to have:
+  - Monsters?
+    - Idk what monsters...but something
+  - Other obstacles
+
+Nice to have:
+  - Shooting the monsters
+    - Barking at them?
+    - Pooping on them? kek
+  - Start screen, game over screen, other game UI
+
+
+Done:
+- Correct bounce physics for dog
+  - http://codetheory.in/how-i-created-my-version-of-doodle-jump-in-html5/
+  - https://github.com/sveinnfannar/Doodle-Jump-HTML5/blob/master/app/scripts/player.coffee
+- Accelerometer Controls
+- Add platforms
+  - Grid?
+  - Random in some way?
+- Platform collisions
+  - Just loop through, check, set flag?
+- Platform physics bounce
+  - http://codetheory.in/how-i-created-my-version-of-doodle-jump-in-html5/
+- Controls of SOME kind
+  - Might have to settle with basic controls
+  - Can just be left side of screen press, right side of screen press
+- Scoring
